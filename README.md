@@ -23,4 +23,5 @@ The Rubik's Cube solver is a school project I completed in two semesters. It is 
 - Screws, magnets, and glue
 
 ## Videos of Operation
-
+Note: there is a bug in these videos where random characters appear on the LCD screen. This seems to be inconsistent and I will look into it at some point.
+### Full Solution Algorithm
