@@ -45,3 +45,18 @@ This is achieved by holding the solve button for three seconds.<br/>
 <img width="234" height="413" alt="image" src="https://github.com/user-attachments/assets/c28740c5-8b1f-408e-9661-e34ace8776b5" />
 <img width="530" height="409" alt="image" src="https://github.com/user-attachments/assets/db2a122d-99dd-4f2f-9a9c-14b602f6c5be" />
 <img width="502" height="358" alt="image" src="https://github.com/user-attachments/assets/3e370b46-5cb8-424e-9631-bfc5c515b307" />
+
+## Circuit Schematic
+<img width="1347" height="902" alt="image" src="https://github.com/user-attachments/assets/43f1bccc-e4b2-410a-996f-2aba0d5eadf2" />
+
+## PCB Design
+<img width="906" height="902" alt="image" src="https://github.com/user-attachments/assets/c5130284-bbea-41c1-b89e-649c53faf483" />
+
+## Credit
+Project uses the AccelStepper.h library (modified by me), the graphics.py library, and the LiquidCrystal_I2C.h library.<br/>
+
+Articles that were useful in the creation of this project:<br/>
+https://observablehq.com/@onionhoney/how-to-model-a-rubiks-cube<br/>
+https://techsauce.medium.com/time-complexity-and-space-complexity-of-dfs-and-bfs-algorithms-671217e43d58<br/>
+https://www.jaapsch.net/puzzles/thistle.htm<br/>
+https://www.instructables.com/Rubiks-Cube-Solver-2/
